@@ -1,0 +1,24 @@
+<!doctype HTML>
+<html>
+<script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+<script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.7.8/aframe/build/aframe-ar.js"></script>
+  <body style='margin : 0px; overflow: hidden;'>
+    <a-scene embedded arjs>
+		
+	<a-marker preset="hiro">
+		<a-entity
+			collada-model="url(https://raw.githubusercontent.com/n-machado/Projeto-IHC/master/Modelos/furadeira%20verde.dae)"
+			scale="3 3 3"
+			position="-2 0 0"
+			rotation="90 180 0">    <!-- horizontal diagonal vertical-->
+			 <a-animation attribute="position"
+               dur="10000"
+               from="-2 0 0"
+               to=".075 0 0"
+               repeat="indefinite"></a-animation-->
+		</a-entity>
+    </a-marker>
+     <a-entity camera></a-entity>
+    </a-scene>
+  </body>
+</html>
