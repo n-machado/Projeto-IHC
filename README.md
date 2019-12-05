@@ -20,3 +20,8 @@ Este seria o caso em que o funcionário utiliza o StopDrill, dessa forma a broca
 Caso o funcionário não utilize o StopDrill a broca atravesa a primeira e atinge também a peça de trás, danificando o material e causando a perda da peça e prejuízo para a empresa.
 
 ![](https://github.com/n-machado/Projeto-IHC/blob/master/Sem%20StopDrill.gif)
+
+
+### Recursos Utilizados
+Este projeto foi realizado utilizando códigos em HTML e JavaScript com o framework A-Frame e a ferramenta de realidade aumentada AR.JS.
+Também foram utlizados Modelos 3D gratuitos para representação da furadeira e das peças.
