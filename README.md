@@ -25,3 +25,4 @@ Caso o funcionário não utilize o StopDrill a broca atravesa a primeira e ating
 ### Recursos Utilizados
 Este projeto foi realizado utilizando códigos em HTML e JavaScript com o framework A-Frame e a ferramenta de realidade aumentada AR.JS.
 Também foram utlizados Modelos 3D gratuitos para representação da furadeira e das peças.
+Todos os códigos HTML, os marcadores e os modelos podem ser encontrados no repositório.
